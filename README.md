@@ -19,7 +19,9 @@ const Pratik = {
     },
     
     
-    funFact: "Did you hear about the programmer who got stuck in the shower? He couldn't find the shampoo bottle because it said "lather, rinse, repeat" and he was stuck in an infinite loop!"😄
+    funFact: "Did you hear about the programmer who got stuck in the shower?
+    He couldn't find the shampoo bottle because it said "lather, rinse, repeat" 
+    and he was stuck in an infinite loop!"😄
     
 };
 ```
