@@ -18,8 +18,9 @@ const Pratik = {
         
     },
     
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    
+    funFact: "Did you hear about the programmer who got stuck in the shower? He couldn't find the shampoo bottle because it said "lather, rinse, repeat" and he was stuck in an infinite loop!"😄
+    
 };
 ```
 
