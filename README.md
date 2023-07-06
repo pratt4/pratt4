@@ -5,7 +5,7 @@
 ```javascript
 const Pratik = {
      
-    code: ["C++","HTML","CSS" , "Javascript", "React","Python"],
+    code: ["C++","Python","Javascript", "React","HTML","CSS" ],
     askMeAbout: ["web dev","Machine learning", "Gaming"],
     technologies: {
         backEnd: {
@@ -14,7 +14,7 @@ const Pratik = {
         Machine Learning:["TensorFlow", "Keras","PyTorch"]
         },
        
-        databases: ["mongo", "MySql"],
+        databases: ["MySql","MongoDb",]
         
     },
     
