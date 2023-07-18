@@ -2,6 +2,8 @@
 
 👨‍🎓💻🔬 Currently studying Computer Science and Engineering at PES University!
 
+https://www.pratikkatti.me/
+
 ```javascript
 const Pratik = {
      
